@@ -1,1 +1,1 @@
-The checkpoint for classification model is at URL: 
+The checkpoint for classification model is at URL: [checkpoint](https://stdntpartners-my.sharepoint.com/:f:/g/personal/manan_chawla_studentambassadors_com/EnG9hkedn0tHq1FBNODH4f4Bou9Ll1CKtxMrOz2luX_08g?e=q0XB9j)
