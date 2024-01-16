@@ -1,4 +1,7 @@
 # WCEBleedGenAI
+
+## TEAM
+ME ( MANAN CHAWLA ) and [ANISHKA GUPTA](https://github.com/anishka25)
 ## Evaluation Metrics
 - ### Classification Validation Metrics ( Model Used: ConvNextV2 )
 - #### Accuracy: 0.9962, Recall = 1.0, F1: 0.9962
